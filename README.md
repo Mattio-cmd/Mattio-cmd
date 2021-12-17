@@ -6,4 +6,4 @@
 - Leave a star in my configs 
 
 DONATE  
-Monero: 4AdqumQrDrnRFqkK2tKyW6PXdDwPCtyEC4R98jAMU6Ho53kcy8aRVMbHMgpiW1V9XpDdWj4qHkjJ6FFvBHqd7sTK7raCtCU
+Monero: 86W4rh9r9MBDybZoXdKfzCecmgKsf4u9yXU5YStVKrVigkMwUbzSSsHUTh2ZvkqeFoK2f6MXPCfNSUbXQqEVzLJz3tandmj
