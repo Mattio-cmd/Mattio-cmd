@@ -12,9 +12,9 @@ Average free software enjoyer. I am not a programer and I dont aim to become one
 
 ![OpenBSD](https://img.shields.io/badge/OpenBSD-%23323330.svg?style=for-the-badge&logo=openbsd&logoColor=%8ea598)  
 
-|
-|
-|
+|  
+|  
+|  
 ### Programs  I use & Others
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
@@ -22,10 +22,11 @@ Average free software enjoyer. I am not a programer and I dont aim to become one
 ![Librewolf](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-|
-|
-|
-### Programing Languages I use(in order for the ones i use the most and know the most(in that order))
+|  
+|  
+|  
+### Programing Languages I use
+  - (Organized in order for the ones i use the most and know the most)
 
 ![C](https://img.shields.io/badge/C%20Programing%20Language-%23323330.svg?style=for-the-badge&logo=c&logoColor=%8ea598)
 
@@ -49,9 +50,9 @@ Average free software enjoyer. I am not a programer and I dont aim to become one
 
 ![Fortran](https://img.shields.io/badge/Fortran-%23323330.svg?style=for-the-badge&logo=fortran&logoColor=magenta)
 
-|
-|
-|
+|  
+|  
+|  
 ### Some of the things i have made:
 ![SPG: Secure Password Generator](https://github.com/Mattio-cmd/spg)
 
