@@ -30,7 +30,9 @@ Average free software enjoyer. I am not a programer and I dont aim to become one
 
 ![C](https://img.shields.io/badge/C%20Programing%20Language-%23323330.svg?style=for-the-badge&logo=c&logoColor=%8ea598)
 
-![Python](https://img.shields.io/badge/C%20Programing%20Language-%23323330.svg?style=for-the-badge&logo=python&logoColor=%8ea598)
+![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%8ea598)
+
+![Dart](https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=%8ea598)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%8ea598)
 
