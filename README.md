@@ -55,7 +55,7 @@ Average free software enjoyer. I am not a programer and I dont aim to become one
 |  
 |  
 |  
-### Some of the things i have made:
+### Some of the public/libre stuff that i have made:
 ![SPG: Secure Password Generator](https://github.com/Mattio-cmd/spg)
 
 ![AAIS](https://github.com/Mattio-cmd/AAIS)
