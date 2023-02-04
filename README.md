@@ -50,10 +50,7 @@ Average free software enjoyer
 ![Fortran](https://img.shields.io/badge/Fortran-%23323330.svg?style=for-the-badge&logo=fortran&logoColor=magenta)
 
 ### Some of the things i have made:
-![SPG: Secure Password Generator](https://github.com/Mattio-cmd/spg)
-
-![AAIS](https://github.com/Mattio-cmd/AAIS)
-  - A post installation script for arch linux
+(work in progress)
 
 ![dotfiles](https://github.com/Mattio-cmd/dotfiles)
   - My dotfiles used for a complete modern desktop experience.
