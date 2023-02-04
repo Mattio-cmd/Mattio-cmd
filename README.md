@@ -2,8 +2,7 @@
 
 Average free software enjoyer
 
-- EE student at the nearest MIT (kind of).
-  * Also making progress towards my MD degree at the top university of my country.
+- EE & CS
 
 
 ## What i use:
