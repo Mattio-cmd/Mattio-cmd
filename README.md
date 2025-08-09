@@ -1,11 +1,10 @@
 # Mattio-cmd
 
-Average free software enjoyer
+free software enjoyer
 
 - EE & CS
 
 
-## What i use:
 
 ### Operating Systems
 
@@ -18,10 +17,9 @@ Average free software enjoyer
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%8ea598)
 ![Librewolf](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Programing Languages I use
-  - (Organized in order for the ones i use the most and know the most)
+### Programing Languages I have used
+No particular order.
 
 ![C](https://img.shields.io/badge/C%20Programing%20Language-%23323330.svg?style=for-the-badge&logo=c&logoColor=%8ea598)
 
@@ -33,26 +31,16 @@ Average free software enjoyer
 
 ![Haskell](https://img.shields.io/badge/Haskell-%23323330.svg?style=for-the-badge&logo=haskell&logoColor=%8ea598)
 
-![Scheme](https://img.shields.io/badge/Scheme-%23323330.svg?style=for-the-badge&logo=lambda&logoColor=%8ea598)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%8ea598)
-
-![React Native](https://img.shields.io/badge/React%20native-%23323330.svg?style=for-the-badge&logo=react&logoColor=%8ea598)
-
 ![Rust](https://img.shields.io/badge/Rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=%8ea598)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Vim Script](https://img.shields.io/badge/Vim%20Script-%23323330.svg?style=for-the-badge&logo=vim&logoColor=green)
 
-![Perl](https://img.shields.io/badge/Perl-%23323330.svg?style=for-the-badge&logo=perl&logoColor=blue)
-
-![Fortran](https://img.shields.io/badge/Fortran-%23323330.svg?style=for-the-badge&logo=fortran&logoColor=magenta)
-
 ### Some of the things i have made:
-(work in progress)
+(WIP)
 
-![dotfiles](https://github.com/Mattio-cmd/dotfiles)
+[dotfiles](https://github.com/Mattio-cmd/dotfiles)
   - My dotfiles used for a complete modern desktop experience.
 
 
