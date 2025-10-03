@@ -45,4 +45,4 @@ No particular order.
 
 
 ### DONATE
-![Monero:](https://img.shields.io/badge/Monero-%23323330.svg?style=for-the-badge&logo=monero&logoColor=%8ea598)86W4rh9r9MBDybZoXdKfzCecmgKsf4u9yXU5YStVKrVigkMwUbzSSsHUTh2ZvkqeFoK2f6MXPCfNSUbXQqEVzLJz3tandmj
+![Monero:](https://img.shields.io/badge/Monero-%23323330.svg?style=for-the-badge&logo=monero&logoColor=%8ea598)8C7LVn9tbxt13kb5Pc5JgfjPrMy7V9EU3dMcYZ84BsfqfRFwVZwssDkCrjyDAWsUFVPTdr4av3jvCaqNQsYfCHs6LtjdWU4
