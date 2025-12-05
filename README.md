@@ -18,24 +18,24 @@ free software enjoyer
 ![Git](https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%8ea598)
 ![Librewolf](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-### Programing Languages I have used
-No particular order.
+<!--### Programing Languages I have used-->
+<!--No particular order.-->
 
-![C](https://img.shields.io/badge/C%20Programing%20Language-%23323330.svg?style=for-the-badge&logo=c&logoColor=%8ea598)
+<!--![C](https://img.shields.io/badge/C%20Programing%20Language-%23323330.svg?style=for-the-badge&logo=c&logoColor=%8ea598)-->
 
-![Python](https://img.shields.io/badge/C%20Programing%20Language-%23323330.svg?style=for-the-badge&logo=python&logoColor=%8ea598)
+<!--![Python](https://img.shields.io/badge/C%20Programing%20Language-%23323330.svg?style=for-the-badge&logo=python&logoColor=%8ea598)-->
 
-![Lua](https://img.shields.io/badge/Lua-%23323330.svg?style=for-the-badge&logo=lua&logoColor=blue)
+<!--![Lua](https://img.shields.io/badge/Lua-%23323330.svg?style=for-the-badge&logo=lua&logoColor=blue)-->
 
-![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%23323330.svg?style=for-the-badge&logo=shell&logoColor=%8ea598)
+<!--![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%23323330.svg?style=for-the-badge&logo=shell&logoColor=%8ea598)-->
 
-![Haskell](https://img.shields.io/badge/Haskell-%23323330.svg?style=for-the-badge&logo=haskell&logoColor=%8ea598)
+<!--![Haskell](https://img.shields.io/badge/Haskell-%23323330.svg?style=for-the-badge&logo=haskell&logoColor=%8ea598)-->
 
-![Rust](https://img.shields.io/badge/Rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=%8ea598)
+<!--![Rust](https://img.shields.io/badge/Rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=%8ea598)-->
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
 
-![Vim Script](https://img.shields.io/badge/Vim%20Script-%23323330.svg?style=for-the-badge&logo=vim&logoColor=green)
+<!--![Vim Script](https://img.shields.io/badge/Vim%20Script-%23323330.svg?style=for-the-badge&logo=vim&logoColor=green)-->
 
 ### Some of the things i have made:
 (WIP)
