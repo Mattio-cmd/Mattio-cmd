@@ -42,6 +42,7 @@ free software enjoyer
 
 [dotfiles](https://github.com/Mattio-cmd/dotfiles)
   - My dotfiles used for a complete modern desktop experience.
+  - Partially obsolete as of the third day of April 2026 AD
 
 
 ### DONATE
